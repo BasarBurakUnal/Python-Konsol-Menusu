@@ -1,4 +1,4 @@
-#Başar Burak Ünal,Efe Öztaş 220501025,220501014
+#Başar Burak Ünal,Efe Öztaş 
 from colorama import Fore, Style, init
 
 
